@@ -1,0 +1,10 @@
+description: "28x28 Full 784  Mu labels dataset for base CHROMO classifier"
+bell_shift_deviation: 0
+std: 10000000
+std_deviation: 100000
+min_pos: 15000
+max_pos: 20000000
+split_count: 784
+count_per_set: 60000
+ceiling_top_deviation: 0.1
+window: 784

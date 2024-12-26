@@ -1,0 +1,20 @@
+model:
+    description: Denoiser Full 784 labels, conv patch 4
+    parameters:
+      img_size: 28
+      patch_size: 4
+      channel: 1
+      emb_size: 64
+      label_num: 784
+      dit_num: 3
+      head: 4
+training:
+  skip: false
+  n_epochs: 256
+  validation_per_epoch: 10
+  validation_portion: 0.1
+  ablation_in_epoch_per_each_epochs: 10
+  ablation_batch_slice: 2
+  batch_size: 1024
+  learning_rate: 0.0001
+  dataset: dataset_28_28_784_denoiser

@@ -1,0 +1,24 @@
+model:
+    description: Unified Attn Head Classifier Full 784 labels Conv 4 base model
+    denoiser_model: full_labels_psize_4
+    cls_head: attn
+    parameters:
+      channel: 1
+      width: 28 
+      height: 28
+      nhead: 2
+      num_blocks: 2
+      emb_size: 4
+      dropout: 0.0
+      label_num: 784
+training:
+  skip: false
+  n_epochs: 32
+  validation_per_epoch: 4
+  validation_portion: 0.1
+  batch_size: 768
+  learning_rate: 0.001
+  dataset: dataset_28_28_784_classifier
+  label_num: 392
+  timestep: 1
+  label_count: 784

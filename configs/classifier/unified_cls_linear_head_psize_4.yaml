@@ -1,0 +1,20 @@
+model:
+    description: Unified Linear Head Classifier Full 784 labels based on full labels denoiser conv ps=4
+    denoiser_model: full_labels_psize_4
+    cls_head: linear
+    parameters:
+      channel: 1
+      width: 28 
+      height: 28
+      label_num: 784
+training:
+  skip: false
+  n_epochs: 32
+  validation_per_epoch: 4
+  validation_portion: 0.1
+  batch_size: 768
+  learning_rate: 0.001
+  dataset: dataset_28_28_784_classifier
+  label_num: 392
+  timestep: 1
+  label_count: 784

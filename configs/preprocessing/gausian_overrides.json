@@ -1,0 +1,174 @@
+{
+    "G54": {
+        "I": {
+            "is_gausian": false
+        },
+        "II": {
+            "is_gausian": false
+        },
+        "III": {
+            "is_gausian": false
+        },
+        "IV": {
+            "is_gausian": false
+        },
+        "V": {
+            "is_gausian": false
+        },
+        "X": {
+            "is_gausian": true,
+            "m": 9742980
+        }
+    },
+    "G71": {
+        "I": {
+            "is_gausian": true
+        },
+        "IV": {
+            "is_gausian": true
+        }
+    },
+    "G79": {
+        "II": {
+            "is_gausian": true
+        },
+        "IV": {
+            "is_gausian": true
+        },
+        "V": {
+            "is_gausian": true
+        },
+        "X": {
+            "is_gausian": true
+        }
+    },
+    "G87": {
+        "I": {
+            "is_gausian": true
+        },
+        "III": {
+            "is_gausian": true
+        },
+        "X": {
+            "is_gausian": true
+        }
+    },
+    "G47": {
+        "II": {
+            "is_gausian": true
+        }
+    },
+    "G51": {
+        "X": {
+            "is_gausian": true
+        }
+    },
+    "G61": {
+        "V": {
+            "is_gausian": true,
+            "m": 6963211
+        },
+        "I": {
+            "is_gausian": false
+        },
+        "II": {
+            "is_gausian": false
+        },
+        "III": {
+            "is_gausian": false
+        },
+        "IV": {
+            "is_gausian": false
+        },
+        "X": {
+            "is_gausian": false
+        }
+    },
+    "G76": {
+        "I": {
+            "is_gausian": true
+        },
+        "II": {
+            "is_gausian": true
+        },
+        "X": {
+            "is_gausian": true
+        }
+    },
+    "G88": {
+        "I": {
+            "is_gausian": true
+        },
+        "II": {
+            "is_gausian": true
+        },
+        "X": {
+            "is_gausian": true
+        }
+    },
+    "G48": {
+        "I": {
+            "is_gausian": true
+        },
+        "II": {
+            "is_gausian": true
+        },
+        "V": {
+            "is_gausian": true
+        }
+    },
+    "G56": {
+        "II": {
+            "is_gausian": true
+        },
+        "X": {
+            "is_gausian": true
+        }
+    },
+    "G66": {
+        "X": {
+            "is_gausian": true
+        }
+    },
+    "G73": {
+        "I": {
+            "is_gausian": true
+        },
+        "II": {
+            "is_gausian": true
+        }
+    },
+    "G53": {
+        "III": {
+            "is_gausian": true
+        },
+        "V": {
+            "is_gausian": true
+        }
+    },
+    "G67": {
+        "II": {
+            "is_gausian": true
+        }
+    },
+    "G86": {
+        "I": {
+            "is_gausian": true
+        },
+        "II": {
+            "is_gausian": true
+        },
+        "V": {
+            "is_gausian": true
+        },
+        "X": {
+            "is_gausian": true
+        }
+    },
+    "ot266": {
+        "X": {
+            "is_gausian": true,
+            "m": 10517649
+        }
+    }
+}
