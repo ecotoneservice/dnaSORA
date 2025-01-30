@@ -1,6 +1,6 @@
 # dnaSORA - Unified Denoiser-Classifier for Chromo Data
 
-This repository contains implementation of a unified denoiser-classifier model for processing and analyzing chromo data. The model predicts misrepresented token point clouds for the hawaiian experiment data. See the reseaarch paper for the details.
+This repository contains implementation of a unified denoiser-classifier model for processing and analyzing chromo data. The model predicts misrepresented token point clouds for the hawaiian experiment data. See [the reseaarch paper](https://www.biorxiv.org/content/10.1101/2025.01.27.633223v1) for the details.
 
 ## Setup
 
